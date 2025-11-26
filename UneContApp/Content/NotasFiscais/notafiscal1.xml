@@ -1,0 +1,14 @@
+<NotaFiscal>
+  <Numero>34567</Numero>
+  <Prestador>
+    <CNPJ>39644132000191</CNPJ>
+  </Prestador>
+  <Tomador>
+    <CNPJ>77176069000103</CNPJ>
+  </Tomador>
+  <DataEmissao>2024-01-15</DataEmissao>
+  <Servico>
+    <Descricao>Desenvolvimento de aplicação web</Descricao>
+    <Valor>5900.00</Valor>
+  </Servico>
+</NotaFiscal>

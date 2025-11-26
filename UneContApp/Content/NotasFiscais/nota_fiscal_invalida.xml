@@ -1,0 +1,14 @@
+<NotaFiscal>
+  <Numero>99999</Numero>
+  <Prestador>
+    <CNPJ>12345678901234</CNPJ>
+  </Prestador>
+  <Tomador>
+    <CNPJ>77654321000144</CNPJ>
+  </Tomador>
+  <DataEmissao>2024-01-15</DataEmissao>
+  <Servico>
+    <Descricao>Teste de validação</Descricao>
+    <Valor>100.00</Valor>
+  </Servico>
+</NotaFiscal>
